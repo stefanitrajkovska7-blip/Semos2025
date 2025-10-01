@@ -1,0 +1,1 @@
+This is a new working repository for this Git COurce.
